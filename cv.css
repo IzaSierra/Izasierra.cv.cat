@@ -1,0 +1,79 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+main {
+    max-width: 900px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+} 
+
+header {
+    text-align: center;
+}
+.yarely img {
+    width: 160px;
+    height: 170px;
+    border-radius: 50%;
+    border: 1px solid #2c3e50;
+}
+
+.yarely-iza h1 {
+    font-size: 40px;
+}
+
+.yarely-iza h2 {
+    font-size: 30px;
+    color: #7f8c8d;
+}
+h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #2c3e50;  
+}
+.contacto ul {
+    list-style: none;
+
+}
+.experiencia h4 {
+    font-size: 20px;
+}
+
+.experiencia p {
+    text-align: justify;
+}
+
+.experiencia ul {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.experiencia li {
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #f4f4f4; 
+}
+
+.references ul {
+    list-style: none;
+}
+
+.references li {
+    font-weight: bold;
+}
